@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}Select Movie{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="heading">Select Movie</h1>
+  <p>
+    <ul class="all-m-container">
+    {% for movie in list %}
+      <li class="moive-container">
+        <a href="{{ url_for('save_movie', id=movie.imdbID) }}"> {{ movie.Title }} - {{ movie.Year }}</a>
+        <img src="{{ movie.Poster }}">
+        <a href="{{ url_for('save_movie', id=movie.imdbID) }}" class="button" style="margin-top: 10px;">Add Movie</a>
+      </li>
+    {% endfor %}
+  </ul>
+  </p>
+
+</div>
+{% endblock %}
