@@ -4,6 +4,17 @@
 
 This project is a web application for ranking your top 10 favorite movies. Built using Flask, SQLAlchemy, and Bootstrap, the app allows users to add, edit, and delete movies, and it automatically updates movie rankings based on ratings. The app fetches movie data from the OMDb API, ensuring a seamless and user-friendly experience.
 
+## Video
+[![Video Thumbnail](https://img.youtube.com/vi/UfxyV3_TnAQ/hqdefault.jpg)](https://www.youtube.com/watch?v=UfxyV3_TnAQ)
+
+Click the image to watch the video.
+## LinkedIn Post
+[View the LinkedIn post here](https://www.linkedin.com/posts/nikhiltelase_flask-sqlalchemy-python-activity-7209134036449906689-uOm9?utm_source=share&utm_medium=member_desktop)
+
+You can view the live version of the project 
+## Live Demoat the following link:
+[Live Demo](https://top-10-moives.vercel.app/)
+
 ## Features
 
 - **Add Movies**: Search and add movies using the OMDb API.
