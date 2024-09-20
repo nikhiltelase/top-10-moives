@@ -12,7 +12,7 @@ Click the image to watch the video.
 [View the LinkedIn post here](https://www.linkedin.com/posts/nikhiltelase_flask-sqlalchemy-python-activity-7209134036449906689-uOm9?utm_source=share&utm_medium=member_desktop)
 
 You can view the live version of the project 
-## Live Demoat the following link:
+## Live Demo the following link:
 [Live Demo](https://top-10-moives.vercel.app/)
 
 ## Features
